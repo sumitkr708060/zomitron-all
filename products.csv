@@ -1,0 +1,4 @@
+Name,Description,Regular price,Sale price,Stock,Images,Categories,Tags,SKU,Pincode,City,State,Weight,Unit
+iPhone 15 128GB,"Latest iPhone with 128GB storage and A16 chip",69999,65999,10,"https://example.com/iphone1.jpg, https://example.com/iphone2.jpg",Electronics,"phone;apple;5g",IP15-128,560001,Bengaluru,Karnataka,0.25,piece
+Samsung AC 1.5T,"Inverter split AC with copper condenser",42000,38999,5,"https://example.com/ac1.jpg, https://example.com/ac2.jpg","Home Appliances","ac;cooling;summer",AC-S15,226010,Lucknow,Uttar Pradesh,12,kg
+Dettol Liquid 500ml,"Antiseptic liquid 500ml bottle",180,,50,"https://example.com/dettol1.jpg",Groceries,"hygiene;health",DTL-500,211001,Prayagraj,Uttar Pradesh,0.55,litre
