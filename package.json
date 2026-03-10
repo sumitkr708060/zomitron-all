@@ -5,11 +5,11 @@
   "private": true,
   "scripts": {
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "server": "cd backend && npm run dev",
-    "client": "cd frontend && npm run dev",
-    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
-    "seed": "cd backend && npm run seed",
-    "test": "cd backend && npm test"
+    "server": "cd zom-main-back && npm run dev",
+    "client": "cd zom-main-front && npm run dev",
+    "install:all": "npm install && cd zom-main-back && npm install && cd ../zom-main-front && npm install",
+    "seed": "cd zom-main-back && npm run seed",
+    "test": "cd zom-main-back && npm test"
   },
   "devDependencies": {
     "concurrently": "^8.2.2"
